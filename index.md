@@ -4,6 +4,8 @@ layout: default
 
 $x^2$
 
+asda
+
 ![](img/se4ai.png)
 
 AI software is still software. As such it needs
