@@ -1,4 +1,5 @@
 ---
+title "I love the night life"
 layout: default
 ---
 
