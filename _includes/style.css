@@ -69,3 +69,5 @@ header h1 {
 }
 
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+
+span.loud { background-color: yellow; }

@@ -21,7 +21,8 @@ asd [^bb] asdassa [^ff]
 
 [^bb]: asd as dassaa dads
 
-*AI software is still software. As such it needs maintenance, validation, interfacingred*{: style="color: red"}.
+*AI software is still software. As such it needs 
+maintenance, validation, interfacingred*{:class=loud}.
 
 to other software, and usability additions.
 That is, AI software needs care and feeding by software engineers.
