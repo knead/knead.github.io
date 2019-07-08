@@ -2,7 +2,7 @@
 layout: default
 ---
 
-$$x^2$$$
+$$x^2$$
 
 ![](img/se4ai.png)
 
