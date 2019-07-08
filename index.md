@@ -1,9 +1,9 @@
 ---
-title: "I love the night life"
+title: I love the night life
 layout: default
 ---
 
-00
+999
 
 $x^2$
 
