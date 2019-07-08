@@ -15,7 +15,7 @@ asda
 
 ![](img/se4ai.png)
 
-asd [asdas][bb] asdassa
+asd [^bb] asdassa [^ff]
 
 
 
@@ -24,6 +24,12 @@ asd [asdas][bb] asdassa
 AI software is still software. As such it needs
 maintenance, validation, interfacing to other software, and usability additions.
 That is, AI software needs care and feeding by software engineers.
+
+[^cc]: asd add a aa ads as
+[^dd]: asd add a aa ads as
+[^ee]: asd add a aa ads as
+[^ff]: asd add a aa ads as
+
 
 The more SE people know about AI, the better they can apply this exciting new technology.
 
