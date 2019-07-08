@@ -68,3 +68,4 @@ header h1 {
 	background-image: linear-gradient(to right, #{{site.about.bold}} 0%, #FFFFFF 100%);
 }
 
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
