@@ -23,3 +23,20 @@ The more SE people know about AI, the better they can apply this exciting new te
 
 So, do you know enough about AI?
 
+ use the kramdown markdown processor, which is the default. If you don’t know what I mean, it is ok, it means that you are using the default provided by GitHub Pages so you don’t need to worry about it.
+
+Just use a double dollar sign $$ to escape LaTeX formulas
+
+you can use an inline formula $$\forall x \in R$$ like this one
+you can use an inline formula ∀x∈R
+ like this one
+
+or display a centered formula like this
+
+$$
+M = \left( \begin{array}{ccc}
+x_{11} & x_{12} & \ldots \\
+x_{21} & x_{22} & \ldots \\
+\vdots & \vdots & \ldots \\
+\end{array} \right)
+$$
