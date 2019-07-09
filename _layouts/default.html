@@ -7,6 +7,9 @@
 		<div class=wrapper>
 			{% include banner.html %}
 			<h1>xx {{page.title}}</h1>
+
+			{% include toc.html html=content %}
+			
 			{{ content }}
 			<hr>
 			<center>

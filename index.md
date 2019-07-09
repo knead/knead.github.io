@@ -17,6 +17,11 @@ asda
 
 asd [^bb] asdassa [^ff]
 
+```
+asdas
+asda
+```
+
 
 
 [^bb]: asd as dassaa dads
