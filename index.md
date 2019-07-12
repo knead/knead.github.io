@@ -3,6 +3,14 @@ title: I love the night life
 layout: default
 ---
 
+<div class="mermaid">
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+</div>
+
 
 
 787878
