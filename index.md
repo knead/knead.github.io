@@ -3,9 +3,9 @@ title: I love the night life
 layout: default
 ---
 
-mermaids
+mermaidss
 
-<div class="mermaid">
+<div class="mermaid" style="background-color: gray;">
 graph TD;
     A-->B;
     A-->C;
