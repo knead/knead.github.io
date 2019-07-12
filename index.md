@@ -3,7 +3,7 @@ title: I love the night life
 layout: default
 ---
 
-memraid
+mermaids
 
 <div class="mermaid">
 graph TD;
